@@ -13,13 +13,13 @@ PaddleHub已将定制打造的街景动漫化模型[animegan_v2_hayao_99](https:
 
 https://www.bilibili.com/video/BV195411A7GQ
 
-![](test_3.jpeg)
+![](test_3.png)
 
 ### 动漫化结果
 
 ![](test_1.jpeg)
 
-![](test_2.jpg)
+![](test_2.jpeg)
 
 ## 使用方法
 
