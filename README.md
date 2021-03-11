@@ -9,13 +9,17 @@ PaddleHub已将定制打造的街景动漫化模型[animegan_v2_hayao_99](https:
 
 ## 效果展示图
 
-<iframe style="width:80%;height: 450px;" src="//player.bilibili.com/player.html?aid=459563081&bvid=BV195411A7GQ&cid=308693816&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+### B站视频展示：
+
+https://www.bilibili.com/video/BV195411A7GQ
+
+![](test_3.jpeg)
 
 ### 动漫化结果
 
-![](./test_1.jpg)
+![](test_1.jpeg)
 
-![](./test_2.jpg)
+![](test_2.jpg)
 
 ## 使用方法
 
